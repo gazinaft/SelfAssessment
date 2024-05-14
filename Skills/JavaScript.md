@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt` k
+  - `String` k
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
+  - `this` k
+  - `instanceof` k
+  - `...spread` k
+  - `...rest` k
+  - `typeof` k
+  - Destructuring k
+  - Generators k
+  - Iterators k
+  - Async generator k
+  - Async iterator k
+  - Chaining k
+  - Optional chaining k
+  - IIFE k
+  - Async IIFE k
+  - `global` h
+  - `globalThis` h
+  - `window` k
+  - Getters and setters k
+  - `__proto__` k
+  - `prototype` k
+  - Equality operators k
+  - Logical operators k
+  - Logical Assignment k
+  - Bitwise operators k
+  - Ternary operator k
+  - `void` h
+  - `yield` k
+  - `await` k
+  - Template literal h
+  - Strict mode k
+  - Hoisting k
+  - `delete` h
+  - `in` k
+  - `super` k
+  - `eval` k
+  - `static` k
+  - `Number.parseInt` k
+  - `Number.parseFloat` k
+  - Property descriptors k
+  - Sealing properties k
+  - Freezing properties k
+  - Computed properties h
+  - Instance class fields k
+  - Static class fields k
+  - Private class fields k
+  - Private class methods k
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` k
+  - `for await` k
+  - `throw` k
+  - `break` k
+  - `continue` k
+  - `import` k
+  - `export` k
+  - `label` k
+  - `try..catch` k
+  - `switch` k
+  - `class` k
+  - `extends` k
+  - `with` k
+  - `new` k
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function k
+  - Async function k
+  - Function declaration k
+  - Function expression k
+  - Default parameters k
+  - Functional object k
+  - `Function.prototype.call` k
+  - `Function.prototype.bind` k
+  - `Function.prototype.apply` k
+  - `return` k
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Array` k
+  - `Map` k
+  - `Set` k
+  - `WeakMap` k
+  - `WeakSet` k
+  - Typed arrays k
+  - Mixins k
+  - `Object.assign` k
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
+  - `Proxy` k
+  - `RegExp` k
+  - `Date` k
+  - `Math` k
+  - `Reflect` h
+  - `Error` h
+  - `Atomics` h
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` h
+  - `console` k
+  - Timers h
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 k
+  - Node.js k
+  - npm k
+  - prettier k
+  - MDN k
   - TC39
